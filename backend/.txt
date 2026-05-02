@@ -1,0 +1,34 @@
+[
+    {
+        "_id": "69f503c59cb5fc71a15b773e",
+        "title": "Learn Node",
+        "description": "Complete backend assignment",
+        "user": "69f50247dc4836651dd5f739",
+        "createdAt": "2026-05-01T19:49:25.216Z",
+        "updatedAt": "2026-05-01T19:49:25.216Z",
+        "__v": 0
+    }
+]
+
+
+{
+    "title": "Test Task",
+    "description": "Debugging",
+    "user": "69f50247dc4836651dd5f739",
+    "_id": "69f505ca2ceb1124dd9f17a4",
+    "createdAt": "2026-05-01T19:58:02.382Z",
+    "updatedAt": "2026-05-01T19:58:02.382Z",
+    "__v": 0
+}
+
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ZjUwNDdkMmNlYjExMjRkZDlmMTdhMyIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzc3NjY1NjYwLCJleHAiOjE3Nzc3NTIwNjB9.sx6ujt2Z_C_xGRELl6_uFuhOtcvcFpaM74QS6sIe1EY"
+}
+
+{"msg":"Login successful",
+"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ZjUwMjQ3ZGM0ODM2NjUxZGQ1ZjczOSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzc3NjY2MjM4LCJleHAiOjE3Nzc3NTI2Mzh9.Dvwzq7Ao0soA1SpwQ_fWuYm01eiyIfJFlIVc6A6djDU",
+"user":{
+    "id":"69f50247dc4836651dd5f739",
+    "email":"abhi@test.com",
+    "role":"user"
+    }}
